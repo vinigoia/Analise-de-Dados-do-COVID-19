@@ -4,11 +4,11 @@
   <img src="https://img.freepik.com/vetores-gratis/faixa-de-celulas-de-coronavirus_1035-18753.jpg?w=1380&t=st=1669945567~exp=1669946167~hmac=0804b13dd28b2d077aa39d71afb7b5b948071bedec9360069a1d8ba7ee892271"
 </p>
 
-# Análise de Dados do COVID-19
+# Análise Exploratória de Dados Relacionados ao COVID-19
 
 Análise de Dados disponibilizados pela Our World in Data referente ao COVID-19 em todo o planeta.
 
-[Link para o projeto completo](https://github.com/vinigoia/Analise-dos-Dados-do-Airbnb/blob/main/14_Projeto_01_Analisando_os_Dados_do_Airbnb.ipynb)
+[Link para o projeto completo](https://github.com/vinigoia/Analise-de-Dados-do-COVID-19/blob/main/An%C3%A1lise_Explorat%C3%B3ria_de_Dados_Relacionados_ao_COVID_19.ipynb)
 
 **Links para me acharem:**
 
